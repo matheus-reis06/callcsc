@@ -1,3 +1,0 @@
-exports.createPost =   (req, res) => {
-    
-}
